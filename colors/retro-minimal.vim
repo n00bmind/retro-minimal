@@ -19,6 +19,7 @@ hi ColorColumn  guibg=#1A3551 ctermbg=17
 hi VertSplit    guifg=#808080 guibg=NONE    gui=none ctermfg=244 ctermbg=NONE
 hi LineNr       guifg=#7E8AA2 guibg=#1C3B59 gui=none ctermfg=103 ctermbg=18
 hi Cursor       guifg=#000000 guibg=#d3d3d5 ctermfg=0 ctermbg=236
+hi Search       guifg=#000000 guibg=#FFFFFF ctermfg=0 ctermbg=15
 
 "hi NonText      guifg=#808080 guibg=#303030 gui=none ctermfg=244 ctermbg=235
 "hi StatusLine   guifg=#d3d3d5 guibg=#444444 gui=italic ctermfg=253 ctermbg=238 cterm=italic
