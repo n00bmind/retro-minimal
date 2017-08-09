@@ -52,6 +52,7 @@ hi! def link Boolean Constant
 " Vim >= 7.0 specific colors
 if version >= 700
   hi CursorLine     guibg=#1A3551 ctermbg=17
+  hi CursorLineNR	guifg=#000000 guibg=#FFFF00 gui=bold ctermfg=0 ctermbg=11 cterm=bold
   hi CursorColumn   guibg=#1A3551 ctermbg=17
   hi MatchParen     guifg=#FFFFFF guibg=#808080 ctermfg=15 ctermbg=244
   hi Pmenu          guifg=#FFFFFF guibg=#1A3551 ctermfg=15 ctermbg=17
