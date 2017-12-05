@@ -31,9 +31,9 @@ hi IncSearch    guifg=#FFFF00 guibg=#000000 ctermfg=11 ctermbg=0
 
 
 " Syntax highlighting
-hi Comment 		guifg=#5D838E gui=none ctermfg=66
-hi Constant 	guifg=#00FFFF gui=none  ctermfg=51
-hi Statement    guifg=#FFFFFF gui=bold ctermfg=15
+hi Comment 		guifg=#5F8787 gui=none ctermfg=66
+hi Constant 	guifg=#00AFAF gui=none ctermfg=37
+hi Statement    guifg=#FFFFFF gui=none ctermfg=15
 hi PreProc 		guifg=#DC9221 gui=none ctermfg=172
 hi Keyword      guifg=#FFFFFF gui=bold ctermfg=15
 hi Type         guifg=#FFFFFF gui=bold ctermfg=15
