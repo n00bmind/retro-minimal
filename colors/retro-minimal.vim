@@ -36,8 +36,8 @@ hi Constant 	guifg=#808000 gui=none ctermfg=37
 hi PreProc 		guifg=#DC9221 gui=none ctermfg=172
 hi Special      guifg=#dc9221 gui=none ctermfg=208
 hi Keyword      guifg=#FFFFFF gui=bold ctermfg=15
-hi Statement    guifg=#FFFFFF gui=none ctermfg=15
-hi Type         guifg=#FFFFFF gui=none ctermfg=15
+hi Statement    guifg=#FFFFFF gui=bold ctermfg=15
+hi Type         guifg=#FFFFFF gui=bold ctermfg=15
 hi Todo         guifg=#000000 guibg=#ffff00 gui=bold
 hi! def link Operator Normal
 hi! def link Identifier Normal
